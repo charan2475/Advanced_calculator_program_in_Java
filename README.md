@@ -1,7 +1,7 @@
 # Advanced_calculator_program_in_Java
 The above Java code is an advanced calculator program that allows users to perform various mathematical operations. It is a command-line calculator, meaning the user interacts with the program by entering input through the console.
 
-Here's a brief description of the key components of the code:
+Here's a brief description of the key components of code:
 
 User Input:
 The program starts by prompting the user to enter the first number. After that, it asks the user to provide the operator for the desired mathematical operation. Finally, the program prompts the user to enter the second number (for binary operations).
